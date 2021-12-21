@@ -2,12 +2,12 @@
 
 Solutions to https://adventofcode.com/2021
 
-To run scripts export AOC session_id 
+To run scripts export AOC session_id
 ```
 $ export AOC_SSID="YOUR_SESSION_ID"
 ```
 
 Run
 ```
-$ sh day01/run.sh 
+$ sh day01/part1.sh
 ```
